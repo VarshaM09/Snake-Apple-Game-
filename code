@@ -5,7 +5,6 @@ import random
 
 SIZE = 40
 BACKGROUND_COLOR = (110, 110, 5)
-
 class Apple:
     def __init__(self, parent_screen):
         self.parent_screen = parent_screen
